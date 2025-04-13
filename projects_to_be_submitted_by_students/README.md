@@ -1,4 +1,4 @@
-This folder contains all 9 projects as per instructions in official repo.
+This folder contains 8 projects ..
 
 It contains required complete projects in files as follows:
 
@@ -18,4 +18,4 @@ Project 7: Password Generator Python Project
 
 Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes
 
-Project 9: Build a Python Website in 15 Minutes With Streamlit
+
